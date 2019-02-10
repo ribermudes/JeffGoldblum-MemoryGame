@@ -9,7 +9,7 @@ const cardsArray = [{
   },
   {
     'name': 'bobomb',
-    'img': 'img/jeff3.jpg',
+    'img': 'img/jeff3.gif',
   },
   {
     'name': 'mario',
